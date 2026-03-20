@@ -41,10 +41,11 @@ El gráfico muestra la distribución de las estrellas en función de su color y 
 ## ANÁLISIS FÍSICO
 El diagrama muestra una banda diagonal bien definida que corresponde a **la secuencia principal**. En esta región, las estrellas más calientes (menor índice de color) son más luminosas.
 
-- Gigantes rojas
+### Gigantes rojas
+
 Lo esperado era un diagrama HR completo, pero no se observa una población clara de gigantes rojas en la parte superior derecha. Esto puede ser porque el paralaje en los datos de todos los objetos es mayor a 5 y esto favorece la detección de estrellas cercanas, en su mayoría de baja luminosidad.
 
-- Regiones inferiores
+### Regiones inferiores
 
 En la parte inferior del diagrama se observa una alta densidad de estrellas menos luminosas, lo que puede incluir estrellas de baja masa.
 
