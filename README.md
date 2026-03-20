@@ -5,7 +5,7 @@
 En este proyecto se estudia un conjunto de datos astronómicos de la misión Gaia DR3 (Evolución Estelar), el objetivo principal es construir un diagrama de Hertzsprung-Rusell para analizar la relación entre el color y la luminosidad de las estrellas.
 El análisis se realiza en un pipeline que permite reproducir los resultados sin intervención manual.
 
-##METODOLOGÍA
+## METODOLOGÍA
 
 Los datos se obtuvieron desde un endpoint público utilizando un script Bash, esto para garantizar la reproducibilidad.
 
