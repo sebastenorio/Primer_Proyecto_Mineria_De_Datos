@@ -34,7 +34,7 @@ Los datos se almacenaron en una base de datos SQlite(datos_mision.db) y se gener
 El diagrama fue el siguiente:
 
 <p align="center">
-  <img src="diagrama_hr.png" width="600">
+  <img src="resultado.png" width="600">
 </p>
 El gráfico muestra la distribución de las estrellas en función de su color y luminosidad.
 
