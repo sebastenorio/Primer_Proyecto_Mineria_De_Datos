@@ -15,13 +15,14 @@ Después se hizo la limpieza de datos, eliminado registros con valores faltantes
 Se calcularon dos variables importantes:
 
 - Índice de color:
+
 $$
-\text{color} = BPmag − RPmag
+\text{Color} = BPmag − RPmag
 $$
 
 - Magnitud absoluta:
 $$
-M = Gmag + 5\log_{10} − 10
+M = Gmag + 5\log_{10}(Plx) − 10
 $$
 
 Esto con el propósito de ubicar las estrellas en el diagrama de Hertzsprung-Russell
