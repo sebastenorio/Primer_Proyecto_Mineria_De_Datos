@@ -15,29 +15,29 @@ Después se hizo la limpieza de datos, eliminado registros con valores faltantes
 Se calcularon dos variables importantes:
 
 - Índice de color:
-
-color = BPmag − RPmag
+$$
+\text{color} = BPmag − RPmag
+$$
 
 - Magnitud absoluta:
-
-M = Gmag + 5 log10(Plx) − 10
+$$
+M = Gmag + 5\log_{10} − 10
+$$
 
 Esto con el propósito de ubicar las estrellas en el diagrama de Hertzsprung-Russell
 
 Los datos se almacenaron en una base de datos SQlite(datos_mision.db) y se generó un diagrama de dispersión utilizando Python y Matplotlib
 
 ## RESULTADOS
-
-El  diagrama de Hertzsprung-Russell fue el siguiente:
+El diagrama fue el siguiente:
 
 <p align="center">
-  <img src="resultado.png" width="500">
+  <img src="diagrama_hr.png" width="600">
 </p>
-
 El gráfico muestra la distribución de las estrellas en función de su color y luminosidad.
 
 ## ANÁLISIS FÍSICO
-El diagrama muestra una banda diagonal bien definida que corresponde a la secuencia principal. En esta región, las estrellas más calientes (menor índice de color) son más luminosas.
+El diagrama muestra una banda diagonal bien definida que corresponde a **la secuencia principal**. En esta región, las estrellas más calientes (menor índice de color) son más luminosas.
 
 - Gigantes rojas
 
