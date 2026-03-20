@@ -21,8 +21,9 @@ $$
 $$
 
 - Magnitud absoluta:
+
 $$
-M = Gmag + 5\log_{10}(Plx) − 10
+M = Gmag + 5 \log_{10}(Plx) - 10
 $$
 
 Esto con el propósito de ubicar las estrellas en el diagrama de Hertzsprung-Russell
